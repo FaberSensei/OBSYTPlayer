@@ -29,9 +29,6 @@ A lightweight Electron-based YouTube player that provides a clean, windowed full
 - Windowed fullscreen player
 - Home page and search work normally
 - Automatically selects the highest available video quality
-- Supports YouTube Premium (just sign in normally)
-- Portable and installer builds
-- Built with Electron
 
 ## Installation
 
@@ -45,7 +42,7 @@ Download the latest release from the **Releases** page.
 Clone the repository:
 
 ```bash
-git clone https://github.com/FaberSensei/WindowTube.git
+git clone https://github.com/FaberSensei/WindowTube-Player.git
 cd WindowTube
 ```
 
@@ -70,10 +67,10 @@ npm run dist
 ## Usage
 
 - Launch the application.
-- Sign in to your YouTube account if you want access to Premium features.
+- Sign in to your YouTube account if you want.
 - Browse YouTube normally from the home page.
 - Opening a video automatically switches to the windowed fullscreen player.
-- Press **Backspace** while watching a video to return to the YouTube home page.
+- Press **Backspace** while watching a video to return to the YouTube home page for search options.
 
 ## License
 
