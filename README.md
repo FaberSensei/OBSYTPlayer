@@ -1,10 +1,27 @@
-## Disclaimer
-
-This project is an unofficial Electron wrapper for YouTube. It is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks belong to their respective owners.
-
 # OBSYTPlayer
 
 A lightweight Electron-based YouTube player with a cleaner viewing experience.
+
+## Screenshots
+
+### YouTube vs OBSYTPlayer
+
+<table>
+<tr>
+<td align="center"><b>YouTube</b></td>
+<td align="center"><b>OBSYTPlayer</b></td>
+</tr>
+
+<tr>
+<td>
+<img src="PASTE_YOUTUBE_SCREENSHOT_URL_HERE" width="450">
+</td>
+
+<td>
+<img src="PASTE_OBSYTPLAYER_SCREENSHOT_URL_HERE" width="450">
+</td>
+</tr>
+</table>
 
 ## Features
 
@@ -28,7 +45,7 @@ Download the latest release from the **Releases** page.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OBSYTPlayer.git
+git clone https://github.com/FaberSensei/OBSYTPlayer.git
 cd OBSYTPlayer
 ```
 
@@ -64,4 +81,4 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
-This project is an unofficial Electron wrapper for YouTube and is not affiliated with, endorsed by, or sponsored by YouTube or Google.
+This project is an unofficial Electron wrapper for YouTube. It is not affiliated with, endorsed by, or sponsored by YouTube or Google. All trademarks belong to their respective owners.
